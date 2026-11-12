@@ -1,0 +1,5 @@
+# Supabase local development
+.supabase/
+.env
+.env.*
+!.env.example
